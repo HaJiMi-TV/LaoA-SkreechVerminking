@@ -17,5 +17,7 @@
 
 ## License
 
+转载标注好"斯奎奇大王（牢A）"的名称即可。
+
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 See [LICENSE](LICENSE) for details
