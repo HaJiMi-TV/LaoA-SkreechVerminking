@@ -15,6 +15,10 @@
 
 ### 2025-11
 
+- [【瓜熟迪落拉】拉片牢A直播：美国各阶层会如何跌落](https://www.bilibili.com/video/BV1NbCiBHEji/)
+- [老瓜拉片牢A：这就是美国~【瓜熟迪落拉-20251115】](https://www.bilibili.com/video/BV18TCXB6Ei4/)
+
+
 #### 【牢A】-帝都南城人
 
 - 美国底层过年关  36:20
