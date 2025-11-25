@@ -4,3 +4,8 @@
 
 # meta
 *.xlsx
+
+# tmp
+_*.srt
+_*.ass
+_*.txt
