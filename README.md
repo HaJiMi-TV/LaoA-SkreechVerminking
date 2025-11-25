@@ -9,7 +9,7 @@
 
 - `bili`: 哔哩哔哩视频字幕及元信息存档
   - `bili/clip`: 切片
-  - `bili/record`: 录播
+  - [`bili/record`: 录播](bili/record/record.md)
 - `docs`: 整理过的视频内容总结
   - `docs/clip`: 切片
   - `docs/record`: 录播
