@@ -1,6 +1,7 @@
 # 合集·直播回放
 
 - UP 本人B站：[合集·直播回放 - 斯奎奇大王的个人空间](https://space.bilibili.com/3546724557654138/channel/collectiondetail?sid=4039266)
+- [合集·斯奎奇大王 - 迷宫干饭人](https://space.bilibili.com/602501334/channel/collectiondetail?sid=3993742)
 - 油管存档：[斯奎奇大王 (播放列表) - YouTube](https://www.youtube.com/playlist?list=PLwzq_oTf55Vpt2xEm5HUte8IUWLBtliK8)
 
 备注：
