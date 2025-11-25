@@ -1,6 +1,7 @@
 # 合集·直播回放
 
-[合集·直播回放 - 斯奎奇大王的个人空间](https://space.bilibili.com/3546724557654138/channel/collectiondetail?sid=4039266)
+- UP 本人B站：[合集·直播回放 - 斯奎奇大王的个人空间](https://space.bilibili.com/3546724557654138/channel/collectiondetail?sid=4039266)
+- 油管存档：[斯奎奇大王 (播放列表) - YouTube](https://www.youtube.com/playlist?list=PLwzq_oTf55Vpt2xEm5HUte8IUWLBtliK8)
 
 备注：
 
